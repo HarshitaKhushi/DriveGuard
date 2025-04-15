@@ -1,1 +1,1 @@
-# hi
+DriveGuard is a real-time driver monitoring system that detects drowsiness using computer vision. It uses OpenCV and MediaPipe to track eye movements and calculates the Eye Aspect Ratio (EAR) to identify signs of fatigue. If the driver’s eyes remain closed for too long, an alarm is triggered to keep them alert. It’s a lightweight, efficient solution aimed at improving road safety through AI-driven technology.
